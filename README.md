@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @RebootedDuck
-- 👀 I’m interested in web development, Arduinos and electronics
-- 🌱 I’m currently learning how to make a better website
+- 👀 I’m interested in Node/Next.js
+- 🌱 I’m currently learning how to create applications in Next.js
 - 📫 How to reach me: apersoncalledaniel@protonmail.com, [rebooteduck.dev](https://rebooteduck.dev)
-- 🐧 I highly recomend Ubuntu and Linux in general
-- 💾 Arduinos are cool
+- 🐧 Linux 4 the win
 
 <!---
 RebootedDuck/RebootedDuck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
