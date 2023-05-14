@@ -1,7 +1,7 @@
 # RebootedDuck
 - Hi, I'm RebootedDuck
 - Hobbyist web dev/linux enthusiast
-- Currently working on my personal website (rebooteduck.dev)
+- Currently working on my personal website, [rebooteduck.dev](https://rebooteduck.dev)
 - Reach me at rebooteduck+github@gmail.com or **DucksOnCaffeine#8293** on Discord
 
 <!---
