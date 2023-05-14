@@ -1,3 +1,4 @@
+# RebootedDuck
 - Hi, I'm RebootedDuck
 - Hobbyist web dev/linux enthusiast
 - Currently working on my personal website (rebooteduck.dev)
