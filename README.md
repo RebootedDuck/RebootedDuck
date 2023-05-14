@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @RebootedDuck
-- 👀 I’m interested in Node/Next.js
-- 🌱 I’m currently learning how to create applications in Next.js
-- 📫 How to reach me: apersoncalledaniel@protonmail.com, [rebooteduck.dev](https://rebooteduck.dev)
+- Hi, I'm RebootedDuck
+- Hobbyist web dev/linux enthusiast
+- Currently working on my personal website (rebooteduck.dev)
+- Reach me at rebooteduck+github@gmail.com or DucksOnCaffeine#8293 on Discord
 
 <!---
 RebootedDuck/RebootedDuck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
